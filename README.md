@@ -23,7 +23,7 @@ This project was assigned to us on a Tuesday Evening and is due Sunday Evening, 
 Reid Poole, check out my Repository here https://github.com/rpoole444
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Learning Goals:
-[//]:  
+
 - Gain experience building an application that utilizes HTML, CSS and JavaScript
 - Write HTML and CSS to match a provided comp
 - Understand how to listen to and respond to user events
